@@ -64,6 +64,32 @@ p {
 	
 }
 
+.awardee-item{
+	padding: 5px;
+}
+.standard{
+	font-size: 20px;
+	line-height: 20px;
+	text-decoration: underline;
+	padding-bottom: 5px;
+}
+
+.name{
+	font-size: 20px;	
+	font-weight: 600;
+	line-height: 10px;
+	margin-botom: 0;
+}
+.address{
+	font-size: 15px;
+	margin: 0;
+}
+.school{
+	font-size: 15px;
+	line-height: 10px;
+	margin-bottom: 0;
+}
+
 .tm-page-container {
   max-width: 600px;
   width: 100%;  
@@ -384,6 +410,13 @@ figcaption {
 @media (max-width: 945px) {
   .tm-nav {
     position: static;
+  }
+  .face-img{
+	  position:static;
+  }
+
+  .tm-title{
+	  position: static;
   }
 
   .tm-page-container {
