@@ -86,8 +86,9 @@ p {
 }
 .school{
 	font-size: 15px;
-	line-height: 10px;
+	line-height: 15px;
 	margin-bottom: 0;
+	padding-top: 4px;
 }
 
 .tm-page-container {
